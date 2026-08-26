@@ -1,0 +1,18 @@
+PROJECT: Premium Network Marketing Business & Event Landing Page
+
+Build a premium, modern, high-converting landing page for a network marketing business operated by Ramón Pinales, based in Spain and originally from the Dominican Republic.
+
+The website must look and feel like a professionally designed €500+ agency website, not a generic AI-generated template.
+
+PRIMARY OBJECTIVE
+
+The main objective is to:
+
+Present Ramón and his business professionally.
+Build trust with new visitors.
+Generate qualified leads.
+Convert visitors into WhatsApp conversations.
+Promote the upcoming event in Spain on September 12.
+Support future advertising campaigns targeting Northern Spain and the United States.
+
+The website must be mobile-first, because most advertising traffic will come from smartphones.
